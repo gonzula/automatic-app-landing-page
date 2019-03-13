@@ -32,8 +32,8 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Real Programming Language
-    description                           : Splash is a programming language that compiles to a fully working Siri Shortcut.
-    fontawesome_icon_name                 : magic
+    description                           : Splash is a programming language that compiles to a fully working, native Siri Shortcut.
+    fontawesome_icon_name                 : stream
 
   - title                                 : iOS App
     description                           : With a native iOS app, that contains a text editor and the Splash compiler, you can write your scripts and run them without leaving your phone.
@@ -47,6 +47,13 @@ features                                  :
     description                           : The iOS app comes with a file browser that syncs your scripts with all major cloud services.
     fontawesome_icon_name                 : sync
 
+  - title                                 : Light/Dark mode
+    description                           : The app has two (at the moment) different themes. More to come!
+    fontawesome_icon_name                 : adjust
+
+  - title                                 : Free Software/Open Source
+    description                           : The app, the compiler and the language as a whole. Everything is free software under GPL3.
+    fontawesome_icon_name                 : osi
 
 # Theme Settings
 topbar_color                              : "#000000"
